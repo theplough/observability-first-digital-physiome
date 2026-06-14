@@ -1,0 +1,2 @@
+# No external runtime dependencies are required for demo/minimal_observability_demo.py.
+# Python 3.10+ standard library is sufficient.
