@@ -1,0 +1,6 @@
+rule_id,trigger,degradation,forbidden_output,boundary
+QG_LOW_PERFUSION,perfusion_index < 0.6,degrade_ppg_spo2_low_perfusion,oxygen_delivery_sufficiency_from_spo2_alone,SpO2 cannot support oxygen-delivery sufficiency without perfusion and transport anchors.
+QG_MOTION,motion_score > 0.55,degrade_motion_sensitive_wearable_signals,,Motion lowers confidence for wearable-derived state packets.
+QG_MISSING_CO2,etco2_mmhg missing,degrade_gas_exchange_without_co2_observation,ventilation_state_without_co2_or_anchor,Gas-exchange trends must not become ventilation-state claims without CO2 or respiratory anchors.
+QG_MISSING_MEAL,meal_carb_g missing,degrade_glucose_interpretation_without_meal_event,insulin_action_claim_without_input_context,CGM changes should not imply insulin action without input context.
+QG_MISSING_CRP,crp_mg_l missing,inflammation_proxy_without_recent_lab_anchor,infection_diagnosis_from_vitals,Vital-sign trends must not become infection diagnoses without laboratory or clinical anchors.
