@@ -7,6 +7,14 @@ Repository:
 
 `https://github.com/theplough/observability-first-digital-physiome`
 
+Archived DOI:
+
+`https://doi.org/10.5281/zenodo.20773420`
+
+License:
+
+MIT License
+
 The public repository should contain only the smallest review-useful materials:
 
 - `README.md`
