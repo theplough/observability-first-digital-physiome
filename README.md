@@ -10,6 +10,8 @@ from observable state packets, event logs, sensor-quality degradation and
 forbidden-output boundaries before claiming individualized physiological
 simulation.
 
+Archived release: https://doi.org/10.5281/zenodo.20773420
+
 ## Included
 
 - `demo/minimal_observability_demo.py`: a standard-library Python demo that
@@ -19,6 +21,13 @@ simulation.
 - `schemas/quality_rules_minimal.csv`: quality-gate and forbidden-output rules.
 - `docs/methods_framework_box.md`: concise methods box.
 - `CITATION.cff`, `LICENSE.md` and this README.
+
+## License
+
+The software and documentation in this public package are released under the
+MIT License. The license permits reuse of the code, but it does not convert the
+package into clinical software and does not authorize diagnostic, treatment,
+patient-monitoring or medical-device use.
 
 ## Quick Start
 
@@ -45,4 +54,5 @@ clinical utility, regulatory readiness or safety.
 
 ## Citation
 
-Please cite the accompanying manuscript or use the metadata in `CITATION.cff`.
+Please cite the accompanying manuscript or use the DOI and metadata in
+`CITATION.cff`: https://doi.org/10.5281/zenodo.20773420.
