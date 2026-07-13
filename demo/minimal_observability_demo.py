@@ -3,7 +3,7 @@
 
 This script is a review-oriented companion for the manuscript:
 
-An observability-first digital physiome framework for clinical digital twins
+Observability first digital physiome framework for clinical digital twins
 
 It demonstrates four framework ideas only:
 
