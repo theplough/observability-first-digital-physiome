@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this package, please cite the accompanying manuscript."
-title: "Observability-first digital physiome framework: minimal reproducibility package"
-doi: "10.5281/zenodo.20773420"
+title: "Observability first digital physiome framework for clinical digital twins"
+doi: "10.5281/zenodo.20773419"
 authors:
   - family-names: "Dong"
     given-names: "Xingshuo"
     affiliation: "The Seventh Medical Centre, Chinese People's Liberation Army (PLA) General Hospital, Beijing, China"
-version: "0.1.0"
-date-released: "2026-06-20"
+version: "0.1.1"
+date-released: "2026-07-13"
 repository-code: "https://github.com/theplough/observability-first-digital-physiome"
-url: "https://doi.org/10.5281/zenodo.20773420"
+url: "https://doi.org/10.5281/zenodo.20773419"
