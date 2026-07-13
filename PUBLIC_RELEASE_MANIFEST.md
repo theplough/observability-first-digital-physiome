@@ -2,11 +2,13 @@
 
 Release name: `observability-first-digital-physiome`
 
-Release date: 2026-06-14
+Release date: 2026-07-13
 
 Author: Xingshuo Dong
 
-Archived DOI: `https://doi.org/10.5281/zenodo.20773420`
+Zenodo concept DOI: `https://doi.org/10.5281/zenodo.20773419`
+
+Release version: `0.1.1`
 
 License: MIT License
 
