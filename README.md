@@ -2,7 +2,7 @@
 
 Minimal public companion package for the manuscript:
 
-> An observability-first digital physiome framework for clinical digital twins
+> Observability first digital physiome framework for clinical digital twins
 
 This repository provides a compact, review-oriented demonstration of the
 manuscript's core methods-framework idea: clinical digital twins should begin
@@ -10,7 +10,9 @@ from observable state packets, event logs, sensor-quality degradation and
 forbidden-output boundaries before claiming individualized physiological
 simulation.
 
-Archived release: https://doi.org/10.5281/zenodo.20773420
+Archived release series (concept DOI): https://doi.org/10.5281/zenodo.20773419
+
+Current package version: `0.1.1`.
 
 ## Included
 
@@ -54,5 +56,5 @@ clinical utility, regulatory readiness or safety.
 
 ## Citation
 
-Please cite the accompanying manuscript or use the DOI and metadata in
-`CITATION.cff`: https://doi.org/10.5281/zenodo.20773420.
+Please cite the accompanying manuscript or use the release metadata in
+`CITATION.cff`. The Zenodo concept DOI is https://doi.org/10.5281/zenodo.20773419.
