@@ -7,9 +7,13 @@ Repository:
 
 `https://github.com/theplough/observability-first-digital-physiome`
 
-Archived DOI:
+Zenodo concept DOI:
 
-`https://doi.org/10.5281/zenodo.20773420`
+`https://doi.org/10.5281/zenodo.20773419`
+
+Current release version:
+
+`0.1.1`
 
 License:
 
